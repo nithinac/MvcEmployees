@@ -27,10 +27,7 @@ namespace MvcEmployees.Controllers
             return View(employee);
         }
 
-        public ActionResult Login()
-        {
-            return View();
-        }
+
 
 
         [HttpPost]
