@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\GitHub\MvcEmployees\MvcEmployees\bin\MvcEmployees.dll
+C:\Users\Administrator\Documents\GitHub\MvcEmployees\MvcEmployees\bin\MvcEmployees.pdb
+C:\Users\Administrator\Documents\GitHub\MvcEmployees\MvcEmployees\obj\Debug\MvcEmployees.dll
+C:\Users\Administrator\Documents\GitHub\MvcEmployees\MvcEmployees\obj\Debug\MvcEmployees.pdb
